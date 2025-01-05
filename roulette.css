@@ -28,7 +28,7 @@ body {
 .main {
   width: 100%;
   min-height: 100vh;
-  background: url("https://i.stack.imgur.com/pRumE.png") no-repeat top center;
+  background: url("bg.jpg") no-repeat top center;
   background-size: cover;
   position: relative;
 }
